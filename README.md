@@ -1,1 +1,1 @@
-# Practice
+A back-testing platform where traders and financial institutions can practice and test their trading strategies by using historical data and get theoretical results and matrices such win rate , average P&L , max conceccutive losses and max conceccutive wins. This will allow them to get data and insight on their trading strategies and enhance them. 
